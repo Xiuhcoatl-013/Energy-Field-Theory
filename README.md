@@ -115,6 +115,7 @@ __Xiuhcoatl__ [<img src="https://latex.codecogs.com/gif.latex?\odot"/>](https://
    - [Thermics](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/) (Under construction...)
       - [Thermal Model](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/) (Under construction...)
       - [Thermal Issues](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/) (Under construction...)
+      - [PCB Thermal Design Considerations](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/) (Under construction...)
    - [Quantum Field Theory](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/) (Under construction...)
       - [Quantum Electrodynamics](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/) (Under construction...)
    - [](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/)
@@ -173,7 +174,7 @@ __Xiuhcoatl__ [<img src="https://latex.codecogs.com/gif.latex?\odot"/>](https://
    - [](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/)
 
 - __Resonant Power Convertion__
-   - [Resonant Power Convertion](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/resonant_power_convertion/Resonant_Power_Convertion.ipynb)
+   - [Resonant Power Convertion](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/resonant_power_convertion/Resonant_Power_Convertion.ipynb) (BETA...)
    - [](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/)
    - [](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/)
    - [Magnetic_Resonance](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/) (Under construction...)
