@@ -158,12 +158,12 @@ __Xiuhcoatl__ [<img src="https://latex.codecogs.com/gif.latex?\odot"/>](https://
       - [](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/)
       - [](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/)
       - [Power Topologies Chart](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/dc_dc_converters/references/Power%20Topologies%20Chart%20-%20TI.pdf)
-  
-- [__Inverters [DC-AC Converter]__](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/inverters/inverters.ipynb)
+
+- __Inverters [DC-AC Converter]__
+   - [Inverters [DC-AC Converter]](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/inverters/inverters.ipynb)
  [<img src="https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/resourses/buttons/portfolios_button.png"/>](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/resourses/portfolios/inverters_%5Bportfolios%5D/inverters_%5Bportfolios%5D.ipynb)
  [<img src="https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/resourses/buttons/lab_button.png"/>](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/resourses/labs/PWM_H-Bridge_%5Blab%5D/Controlling_DC_Brush_Motors_with_H-bridge_Driver_ICs.ipynb)
-
-   - [](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/)
+   - [Z-Source Inverter](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/) (Under construction...)
    - [](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/)
    - [](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/)
 
@@ -197,8 +197,9 @@ __Xiuhcoatl__ [<img src="https://latex.codecogs.com/gif.latex?\odot"/>](https://
       - [Bearing Currents](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/) (Under construction...PWM Challenges Part 2) 
       - [Power Line Comuication](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/) (Under construction...)
    - [RF](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/) (Under construction...)
-   - [PCB_Thermal_Design_Considerations](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/) (Under construction...)
+   - [Power Line Communication](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/) (Under construction...) 
    - [Correlation Power Analysis](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/) (Under construction...)
+   - [Cyborg Roach [Biotech App]](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/) (Under construction...)
    - [](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/)
    - [](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/)
    - [](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/)
@@ -211,11 +212,12 @@ __Xiuhcoatl__ [<img src="https://latex.codecogs.com/gif.latex?\odot"/>](https://
    - __B__  
       - [Survey of Second-Order Resonant Circuits](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/) (Under construction...)
    - __C__
-      - [Transformers](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/) (Under construction...)
+      - [Complex Variable](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/) (Under construction...)
+      - [Complex Var Valued ANN](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/) (Under construction...)
    - __D__
       - [](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/)
    - __E__
-      - [State-Space Averaging](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/resourses/apendix/state-space_averaging/state-space_averaging.ipynb)
+   
    - __F__
       - [Fourier Series for Some Common Waveforms](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/fourier_series_for_common_waveforms/fourier_series_for_common_waveforms.ipynb)
    - __G__
@@ -238,3 +240,12 @@ __Xiuhcoatl__ [<img src="https://latex.codecogs.com/gif.latex?\odot"/>](https://
       - [](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/)
    - __P__
       - [PSpice Simulation](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/resourses/apendix/pspice_simulation%20(UNDER%20CONSTRUCTION)/inverters%5BPspice%5D%5BUNDER%20CONSTRUCTION%5D/inverters_%5BPSpice%5D.ipynb) (BETA...)
+   - __Q__
+      - 
+   - __R__
+      - 
+   - __S__
+      - [State-Space Averaging](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/resourses/apendix/state-space_averaging/state-space_averaging.ipynb)
+      - 
+   - __T__
+      - [Transformers](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/) (Under construction...)
