@@ -195,7 +195,7 @@ __Xiuhcoatl__ [<img src="https://latex.codecogs.com/gif.latex?\odot"/>](https://
    - __PWM and RF Phenomena__
       - [Voltage reflections ](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/) (Under construction...)
       - [Bearing Currents](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/) (Under construction...PWM Challenges Part 2) 
-      - [Power Line Comuication](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/) (Under construction...)
+      - [PCB Design for PWM Applications](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/) (Under construction...)
    - [RF](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/) (Under construction...)
    - [Power Line Communication](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/) (Under construction...) 
    - [Correlation Power Analysis](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/) (Under construction...)
@@ -241,11 +241,10 @@ __Xiuhcoatl__ [<img src="https://latex.codecogs.com/gif.latex?\odot"/>](https://
    - __P__
       - [PSpice Simulation](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/resourses/apendix/pspice_simulation%20(UNDER%20CONSTRUCTION)/inverters%5BPspice%5D%5BUNDER%20CONSTRUCTION%5D/inverters_%5BPSpice%5D.ipynb) (BETA...)
    - __Q__
-      - 
+ 
    - __R__
-      - 
+       
    - __S__
-      - [State-Space Averaging](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/resourses/apendix/state-space_averaging/state-space_averaging.ipynb)
-      - 
+      - [State-Space Averaging](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/resourses/apendix/state-space_averaging/state-space_averaging.ipynb) 
    - __T__
       - [Transformers](https://github.com/Xiuhcoatl-013/Energy-Field-Theory/blob/master/notes/) (Under construction...)
